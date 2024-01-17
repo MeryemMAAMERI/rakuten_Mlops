@@ -13,3 +13,4 @@ scikit-learn
 nltk
 PyJWT
 pickle5
+pytest
