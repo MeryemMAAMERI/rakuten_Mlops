@@ -1,2 +1,15 @@
-pandas==1.2.4
-matplotlib==3.4.2
+pandas
+passlib
+gdown
+numpy
+regex
+glob2
+pickle-mixin
+joblib
+unidecode
+python-multipart
+tensorflow
+scikit-learn
+nltk
+PyJWT
+pickle5
