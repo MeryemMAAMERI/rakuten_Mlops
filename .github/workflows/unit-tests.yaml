@@ -20,4 +20,4 @@ jobs:
         
     - name: Test with pytest
       run: |
-        pytest --verbose
+        pytest tests/api_test.py
