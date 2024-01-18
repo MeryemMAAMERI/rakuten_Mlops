@@ -23,7 +23,7 @@ docutils==0.17.1
 ecdsa==0.18.0
 exceptiongroup==1.2.0
 fastapi==0.108.0
-feedparser==6.0.8
+feedparser
 filelock==3.13.1
 flatbuffers==23.5.26
 gast==0.5.4
