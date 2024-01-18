@@ -8,3 +8,4 @@ typing
 pytest
 httpx
 PyJWT
+python-jose==3.3.0
