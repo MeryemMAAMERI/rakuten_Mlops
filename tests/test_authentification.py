@@ -1,7 +1,7 @@
 from fastapi.testclient import TestClient
 
 from passlib.context import CryptContext
-from tests.api_test  import api
+from api_test  import api
 client = TestClient(api)
 #from test_api import app
 
