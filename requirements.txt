@@ -113,7 +113,6 @@ texttable==1.6.4
 threadpoolctl==3.2.0
 tomli==2.0.1
 tqdm==4.66.1
-typing_extensions==4.9.0
 tzdata==2023.4
 ubuntu-advantage-tools==8001
 ufw==0.36.1
