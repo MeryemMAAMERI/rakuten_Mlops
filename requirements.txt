@@ -15,3 +15,4 @@ PyJWT
 pickle5
 pytest
 fastapi
+httpx
